@@ -1,5 +1,5 @@
 class AuthController {
-  login(req, res) {
+  async login(req, res) {
     const { username, password } = req.body;
 
     // Apenas um exemplo simples de autenticação
