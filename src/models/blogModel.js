@@ -3,10 +3,10 @@ const { v4: uuidv4 } = require('uuid');
 let blogPosts = [
     {
         id: '12345678',
-        title: 'Ta pago',
-        subtile: 'importancia de treinar',
-        text: 'Para manter uma alimentção saudável e uma rotina de qualidade é importante praticar exercício físico',
-        likes: 2,
+        title: 'Modelo de Título',
+        subtile: 'Subtítulo',
+        text: 'Escreva aqui seu texto',
+        likes: 7,
         dislike: 0
     }
 ];

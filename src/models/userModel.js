@@ -1,6 +1,6 @@
 // models/userModel.js
 
-// Exemplo de model com um usuário fictício
+// Exemplo de model com um usuário 
 const users = [
     {
       id: 1,
